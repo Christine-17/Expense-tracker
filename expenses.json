@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2023-12-04 21:20:39",
+    "amount": 200.0,
+    "category": "education",
+    "description": "schooling"
+  },
+  {
+    "date": "2023-12-12 21:26:05",
+    "amount": 2000.0,
+    "category": "shopping",
+    "description": "house shopping"
+  }
+]
